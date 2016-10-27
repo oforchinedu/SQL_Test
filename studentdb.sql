@@ -1,6 +1,6 @@
 CREATE DATABASE StudentDB
 
-CREATE TABLE courses(
+CREATE TABLE Student(
 std_id int not null,
 course_name varchar(30) not null,
 course_id varchar(30) not null,
